@@ -89,6 +89,7 @@ If you identify software that deserves a better alternative, consider creating a
 
 Maintained by The Freecode Syndicate.
 
+** If you develop some alternative inspired by this list, please open a pull request or reach out to the maintainers, we will facilitate for a project to be done under FCS, then you may clone it, fork it as per your wish. The software will always belong to you in anycase.**
 
 
 
